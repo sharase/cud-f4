@@ -32,9 +32,7 @@ in numerical examples using Markov chain QMC.
 ### Usage:
 
 ```
-cud_f4.c   # Our proposed Tausworthe generators using fast state transition
-
-gcc cud_f4.c -o cud_f4 -O3
+gcc cud_f4.c -o cud_f4 -lm -O3 # Our proposed Tausworthe generators using fast state transition
 ./cud_f4 6 >> output_m6.txt
 ```
 ---
