@@ -35,7 +35,7 @@ in numerical examples using Markov chain QMC.
 cud_f4.c   # Our proposed Tausworthe generators using fast state transition
 
 gcc cud_f4.c -o cud_f4 -O3
-./cud_new 6 >> output_m6.txt
+./cud_f4 6 >> output_m6.txt
 ```
 ---
 
