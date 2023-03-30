@@ -11,7 +11,7 @@ unsigned int rng7(void); /* 4^7-1 */
 unsigned int rng8(void); /* 4^8-1 */
 unsigned int rng9(void); /* 4^9-1 */
 unsigned int rng10(void); /* 4^10-1 */
-unsigned int rng11(void); /* 4^10-1 */
+unsigned int rng11(void); /* 4^11-1 */
 
 static unsigned int state5 = 0x86981809U;
 static unsigned int state6 = 0xcfc8f6c0U;
