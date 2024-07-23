@@ -2,9 +2,9 @@
 
 ---
 
-### Preprint:
+### Paper:
 
-S. Harase, "A generalization of short-period Tausworthe generators and its application to Markov chain quasi-Monte Carlo". <a href = "https://arxiv.org/abs/2303.10622">[arXiv]</a>
+S. Harase, "A search for short-period Tausworthe generators over <strong>F</strong><sub>b</sub> with application to Markov chain quasi-Monte Carlo", Journal of Statistical Computation and Simulation, Volume 94 (June 2024), Issue 9, Pages 2040-2062. <a href="https://doi.org/10.1080/00949655.2024.2312951">[doi]</a> <a href="https://doi.org/10.48550/arXiv.2303.10622">[arXiv]</a>
 
 ---
 
